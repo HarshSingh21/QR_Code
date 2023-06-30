@@ -8,6 +8,7 @@ const sizes = document.querySelector(".sizes");
 
 
 
+
 dark.addEventListener("input", handleDarkColor);
 light.addEventListener("input", handleLightColor);
 qrText.addEventListener("input", handleQRText);
