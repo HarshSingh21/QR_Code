@@ -12,6 +12,7 @@ qrText.addEventListener("input", handleQRText);
 sizes.addEventListener("change", handleSize);
 shareBtn.addEventListener("click", handleShare);
 
+
 const defaultUrl = "https://github.com/HarshSingh21";
 let colorLight = "#fff",
     colorDark = "#000",
